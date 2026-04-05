@@ -72,8 +72,4 @@ python app.py
 - **Dataset**: Movie Reviews (IMDb/Scraped Data).
 - **Status Akurasi Akhir**: **94.76%**.
 
-## 👥 Kontributor
-- **Project NLP - Semester 7 Gasal 25-26**
-
 ---
-*Proyek ini dibuat untuk memenuhi tugas mata kuliah Natural Language Processing (NLP).*
