@@ -2,9 +2,6 @@
 
 Sistem Analisis Sentimen Film berbasis Deep Learning menggunakan arsitektur **CNN (Convolutional Neural Network)** dan **Word2Vec**. Proyek ini dikembangkan untuk mengklasifikasikan sentimen ulasan film (Positif/Negatif) dan mendeteksi genre secara otomatis berdasarkan konteks teks.
 
-![Akurasi Proyek](https://img.shields.io/badge/Accuracy-94.76%25-brightgreen)
-![Python](https://img.shields.io/badge/Backend-Python%20Flask-blue)
-![PHP](https://img.shields.io/badge/Frontend-PHP%20%26%20XAMPP-orange)
 
 ## 🌟 Fitur Utama
 - **Analisis Sentimen Real-time**: Memprediksi apakah sebuah ulasan bersifat positif atau negatif dengan akurasi tinggi.
